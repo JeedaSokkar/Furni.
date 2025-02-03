@@ -1,0 +1,1 @@
+Furni is a project focused on furniture-related functionalities, providing a user-friendly interface to browse, select, and manage furniture items efficiently. The application is designed to offer a seamless experience for users looking to explore various furniture designs and styles.
